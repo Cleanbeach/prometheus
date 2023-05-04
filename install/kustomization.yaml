@@ -4,6 +4,6 @@ namespace: argocd
 
 resources:
   - prometheus-install/prometheus/application.yaml
-  - prometheus-install/prometheus-operator-crds/application.yaml
-  - promethesu-install/prometheus-node-exporter/application.yaml
-  - promethesu-install/grafana/dashboard/arogcd.yaml
+  # - prometheus-install/prometheus-operator-crds/application.yaml
+  # - promethesu-install/prometheus-node-exporter/application.yaml
+  # - promethesu-install/grafana/dashboard/arogcd.yaml
